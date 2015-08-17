@@ -685,3 +685,10 @@ pre[data-code-language="console"] code.gp {
   color: #009900;
   font-weight: bold;
 }
+
+
+/*  My Code for Highlighting Text  */
+span.highlight{
+  background-color: yellow;
+  font-size: 1.3em;
+}
